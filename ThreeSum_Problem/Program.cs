@@ -10,6 +10,11 @@
 
             Console.ReadLine();
         }
+        /// <summary>
+        /// Using a Dictionary: Time complexity: O(n^2), Space complexity: O(1), As no extra space is required
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <returns>IList<IList<int>></returns>
         public static IList<IList<int>> ThreeSum(int[] nums)
         {
             Array.Sort(nums);  //Step-1

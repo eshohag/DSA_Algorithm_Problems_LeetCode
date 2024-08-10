@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 namespace TwoSum_Problem
 {
     public class TwoSum_Solution
-    { /// <summary>
-      /// Brute force: Time Complexity: O(n^2), Space complexity: O(1)
-      /// </summary>
-      /// <param name="array"></param>
-      /// <param name="target"></param>
-      /// <returns>integer array of indices</returns>
+    {
+        /// <summary>
+        /// Brute force: Time Complexity: O(n^2), Space complexity: O(1)
+        /// </summary>
+        /// <param name="array"></param>
+        /// <param name="target"></param>
+        /// <returns>integer array of indices</returns>
         public static int[] NormalSolution(int[] array, int target)
         {
             //Declarations
