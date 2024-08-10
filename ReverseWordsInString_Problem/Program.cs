@@ -11,6 +11,11 @@ namespace ReverseWordsInString_Problem
             Console.WriteLine(ReverseWords(s));
             Console.ReadKey();
         }
+        /// <summary>
+        /// Using a Dictionary: Time Complexity: O(n), Space complexity: O(1)
+        /// </summary>
+        /// <param name="s"></param>
+        /// <returns name="string"></returns>
         public static string ReverseWords(string s)
         {
             var options = StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries;
