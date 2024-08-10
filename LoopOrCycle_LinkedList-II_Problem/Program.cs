@@ -26,7 +26,7 @@
         /// Using a Dictionary: Time Complexity: O(n), Space complexity: O(1)
         /// </summary>
         /// <param name="head"></param>
-        /// <returns>bool array of indices</returns>
+        /// <returns>ListNode of indices</returns>
         public static ListNode DetectCycle(ListNode head)
         {
             ListNode slow = head, fast = head;
