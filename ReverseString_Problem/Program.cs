@@ -5,7 +5,7 @@ namespace ReverseString_Problem
     {
         static void Main(string[] args)
         {
-            var a = "shohag";
+            var a = "Complexity";
             var reverse = reverseString(arr: a.ToCharArray());
             Console.WriteLine(String.Join("", reverse));
 
