@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeSum_Problem", "ThreeSu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray_Problem", "ReverseArray_Problem\ReverseArray_Problem.csproj", "{BD9C94FE-9FA5-4707-9199-CA331E424993}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString_Problem", "ReverseString_Problem\ReverseString_Problem.csproj", "{2EA988A4-7507-4EB0-A8BB-C6793792779E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BD9C94FE-9FA5-4707-9199-CA331E424993}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD9C94FE-9FA5-4707-9199-CA331E424993}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD9C94FE-9FA5-4707-9199-CA331E424993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA988A4-7507-4EB0-A8BB-C6793792779E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA988A4-7507-4EB0-A8BB-C6793792779E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA988A4-7507-4EB0-A8BB-C6793792779E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA988A4-7507-4EB0-A8BB-C6793792779E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
