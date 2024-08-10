@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList_Problem",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum_Problem", "TwoSum_Problem\TwoSum_Problem.csproj", "{11EB9E56-AC08-4B40-9FD2-FF56F278436F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSum_Problem", "ThreeSum_Problem\ThreeSum_Problem.csproj", "{15E0674F-20EB-494B-8464-8ADED1C2387F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{11EB9E56-AC08-4B40-9FD2-FF56F278436F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11EB9E56-AC08-4B40-9FD2-FF56F278436F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11EB9E56-AC08-4B40-9FD2-FF56F278436F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E0674F-20EB-494B-8464-8ADED1C2387F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E0674F-20EB-494B-8464-8ADED1C2387F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E0674F-20EB-494B-8464-8ADED1C2387F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E0674F-20EB-494B-8464-8ADED1C2387F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
