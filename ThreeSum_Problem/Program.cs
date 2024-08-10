@@ -5,9 +5,12 @@
         static void Main(string[] args)
         {
             int[] nums = { -1, 0, 1, 2, -1, -4 };
-
-            ThreeSum(nums);
-
+            int sum = 0;
+            var triplets = ThreeSum(nums, sum);
+            foreach (var single in triplets)
+            {
+                Console.WriteLine(String.Join(" ", single));
+            }
             Console.ReadLine();
         }
         /// <summary>
@@ -15,41 +18,42 @@
         /// </summary>
         /// <param name="nums"></param>
         /// <returns>IList<IList<int>></returns>
-        public static IList<IList<int>> ThreeSum(int[] nums)
+        public static IList<IList<int>> ThreeSum(int[] nums, int sum)
         {
             Array.Sort(nums);  //Step-1
             int length = nums.Length;
             IList<IList<int>> result = new List<IList<int>>();
 
-            for (int i = 0; i < length - 2 && nums[i] <= 0; ++i)  //Step-2
+            for (int i = 0; i < length - 2; ++i)
             {
-                if (i > 0 && nums[i] == nums[i - 1])
+                if (i > 0 && nums[i] == nums[i - 1]) //Duplicate Checking
                 {
                     continue;
                 }
-                int j = i + 1, k = length - 1;
-                while (j < k)
+
+                int left = i + 1, right = length - 1;
+                while (left < right)
                 {
-                    int x = nums[i] + nums[j] + nums[k];
-                    if (x < 0)
+                    int x = nums[i] + nums[left] + nums[right];
+                    if (x == sum)
                     {
-                        ++j;
-                    }
-                    else if (x > 0)
-                    {
-                        --k;
-                    }
-                    else
-                    {
-                        result.Add(new List<int> { nums[i], nums[j--], nums[k--] });
-                        while (j < k && nums[j] == nums[j + 1])
+                        result.Add(new List<int> { nums[i], nums[left--], nums[right--] });
+                        while (left < right && nums[left] == nums[left + 1])
                         {
-                            ++j;
+                            ++left;
                         }
-                        while (j < k && nums[k] == nums[k + 1])
+                        while (left < right && nums[right] == nums[right + 1])
                         {
-                            --k;
+                            --right;
                         }
+                    }
+                    else if (x > sum)
+                    {
+                        --right;
+                    }
+                    else  //x < sum
+                    {
+                        ++left;
                     }
                 }
             }
