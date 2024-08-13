@@ -17,7 +17,7 @@
             // 10 -> 20 -> 30 -> 40 -> 10 -> 20 -> 30 ...
             head.next.next.next.next = head;
 
-            DetectCycle(head);
+            var detect = DetectCycle(head);
 
             Console.ReadKey();
         }
@@ -47,6 +47,14 @@
                 }
             }
             return null;
+        }
+        private static void PrintList(ListNode node)
+        {
+            while (node != null)
+            {
+                Console.Write(" " + node.val);
+                node = node.next;
+            }
         }
     }
 }
