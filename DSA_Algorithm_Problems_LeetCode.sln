@@ -9,17 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum_Problem", "TwoSum_Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeSum_Problem", "ThreeSum_Problem\ThreeSum_Problem.csproj", "{15E0674F-20EB-494B-8464-8ADED1C2387F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray_Problem", "ReverseArray_Problem\ReverseArray_Problem.csproj", "{BD9C94FE-9FA5-4707-9199-CA331E424993}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArray_Problem", "ReverseArray_Problem\ReverseArray_Problem.csproj", "{BD9C94FE-9FA5-4707-9199-CA331E424993}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString_Problem", "ReverseString_Problem\ReverseString_Problem.csproj", "{2EA988A4-7507-4EB0-A8BB-C6793792779E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString_Problem", "ReverseString_Problem\ReverseString_Problem.csproj", "{2EA988A4-7507-4EB0-A8BB-C6793792779E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWords_Problem", "ReverseWords_Problem\ReverseWords_Problem.csproj", "{DF84F1FF-AB0A-4A86-8C4B-628D87306FCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWords_Problem", "ReverseWords_Problem\ReverseWords_Problem.csproj", "{DF84F1FF-AB0A-4A86-8C4B-628D87306FCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsInString_Problem", "ReverseWordsInString_Problem\ReverseWordsInString_Problem.csproj", "{FF6AEBC7-019C-4228-9FF1-F9A33EB0CA8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWordsInString_Problem", "ReverseWordsInString_Problem\ReverseWordsInString_Problem.csproj", "{FF6AEBC7-019C-4228-9FF1-F9A33EB0CA8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopOrCycle_LinkedList_Problem", "LoopOrCycle_LinkedList_Problem\LoopOrCycle_LinkedList_Problem.csproj", "{7455CA21-FD61-44D7-9651-89D85E251920}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopOrCycle_LinkedList_Problem", "LoopOrCycle_LinkedList_Problem\LoopOrCycle_LinkedList_Problem.csproj", "{7455CA21-FD61-44D7-9651-89D85E251920}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopOrCycle_LinkedList-II_Problem", "LoopOrCycle_LinkedList-II_Problem\LoopOrCycle_LinkedList-II_Problem.csproj", "{D9433DD8-A72B-49B7-92F2-6554F80E1145}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopOrCycle_LinkedList-II_Problem", "LoopOrCycle_LinkedList-II_Problem\LoopOrCycle_LinkedList-II_Problem.csproj", "{D9433DD8-A72B-49B7-92F2-6554F80E1145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressionMatching", "RegularExpressionMatching\RegularExpressionMatching.csproj", "{C6A331AB-4F6B-4B6B-A689-D70866AF5B87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{D9433DD8-A72B-49B7-92F2-6554F80E1145}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9433DD8-A72B-49B7-92F2-6554F80E1145}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9433DD8-A72B-49B7-92F2-6554F80E1145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A331AB-4F6B-4B6B-A689-D70866AF5B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A331AB-4F6B-4B6B-A689-D70866AF5B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A331AB-4F6B-4B6B-A689-D70866AF5B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A331AB-4F6B-4B6B-A689-D70866AF5B87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
