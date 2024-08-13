@@ -5,7 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace StackUsingQueues_Problem
-{
+{   
+     /// <summary>
+     /// Using a Dictionary: Time Complexity: O(n), Space complexity: O(n)
+     /// </summary>
+     /// <param name="x"></param>
+     /// <returns>ListNode of indices</returns>
     public class MyStack_Solution
     {
         Queue<int> queue;
