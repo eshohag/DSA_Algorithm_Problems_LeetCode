@@ -4,24 +4,16 @@
     {
         static void Main(string[] args)
         {
-            // Creating a Queue  
-            System.Collections.Queue myQueue = new System.Collections.Queue();
-            myQueue.Enqueue(11);
-            myQueue.Enqueue(1);
-            Console.WriteLine(myQueue.Dequeue());
-            Console.WriteLine(myQueue.Peek());
-
-            // Converting the Queue 
-            // into object array 
-            Object[] arr = myQueue.ToArray();
-
-            // Displaying the elements in array 
-            foreach (Object obj in arr)
-            {
-                Console.WriteLine(obj);
-            }
+            MyQueue_Solution obj = new MyQueue_Solution();
+            obj.Push(1);
+            obj.Push(40);
+            obj.Push(10);
+            int param_2 = obj.Pop();
+            int param_3 = obj.Peek();
+            bool param_4 = obj.Empty();
 
             Console.ReadKey();
         }
+
     }
 }
