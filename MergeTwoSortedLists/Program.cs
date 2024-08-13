@@ -17,6 +17,12 @@
 
             Console.ReadKey();
         }
+        /// <summary>
+        /// Using a Dictionary: Time Complexity: O(M∗N), Space complexity: O(1)
+        /// </summary>
+        /// <param name="list1"></param>
+        /// <param name="list2"></param>
+        /// <returns>ListNode of indices</returns>
         public static ListNode MergeTwoLists(ListNode list1, ListNode list2)
         {
             //Basic Filtering 
