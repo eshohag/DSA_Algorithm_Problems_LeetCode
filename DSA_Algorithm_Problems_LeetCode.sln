@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort_an_Array", "Sort_an_Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackUsingQueues_Problem", "StackUsingQueues_Problem\StackUsingQueues_Problem.csproj", "{64B530D7-BD26-442D-A7F5-7EF77EB14401}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumTwoIntegers", "SumTwoIntegers\SumTwoIntegers.csproj", "{FAD7D7A5-3B58-42CD-BA98-16A3380C838F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{64B530D7-BD26-442D-A7F5-7EF77EB14401}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64B530D7-BD26-442D-A7F5-7EF77EB14401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64B530D7-BD26-442D-A7F5-7EF77EB14401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD7D7A5-3B58-42CD-BA98-16A3380C838F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD7D7A5-3B58-42CD-BA98-16A3380C838F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD7D7A5-3B58-42CD-BA98-16A3380C838F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD7D7A5-3B58-42CD-BA98-16A3380C838F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
