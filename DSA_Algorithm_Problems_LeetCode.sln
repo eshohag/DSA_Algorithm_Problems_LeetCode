@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressionMatching",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{4B6A1BE1-7C02-408C-B7D2-D38B4CAD4AED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingStacks", "QueueUsingStacks\QueueUsingStacks.csproj", "{FCE335F4-7C86-4ADB-A643-69629A266A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort_an_Array", "Sort_an_Array\Sort_an_Array.csproj", "{4218ADF0-AE1C-4C90-8978-3EC06E8436B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{4B6A1BE1-7C02-408C-B7D2-D38B4CAD4AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B6A1BE1-7C02-408C-B7D2-D38B4CAD4AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B6A1BE1-7C02-408C-B7D2-D38B4CAD4AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE335F4-7C86-4ADB-A643-69629A266A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE335F4-7C86-4ADB-A643-69629A266A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE335F4-7C86-4ADB-A643-69629A266A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE335F4-7C86-4ADB-A643-69629A266A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4218ADF0-AE1C-4C90-8978-3EC06E8436B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4218ADF0-AE1C-4C90-8978-3EC06E8436B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4218ADF0-AE1C-4C90-8978-3EC06E8436B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4218ADF0-AE1C-4C90-8978-3EC06E8436B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
