@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot\Sq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot_Doubble", "SquareRoot_Doubble\SquareRoot_Doubble.csproj", "{EF90A738-0D14-4AAF-B8AB-1FB7F9F2B8D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicates_Array", "Duplicates_Array\Duplicates_Array.csproj", "{950804CE-4C4F-4ECF-B976-BBBC97DF9988}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{EF90A738-0D14-4AAF-B8AB-1FB7F9F2B8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF90A738-0D14-4AAF-B8AB-1FB7F9F2B8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF90A738-0D14-4AAF-B8AB-1FB7F9F2B8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950804CE-4C4F-4ECF-B976-BBBC97DF9988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950804CE-4C4F-4ECF-B976-BBBC97DF9988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950804CE-4C4F-4ECF-B976-BBBC97DF9988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950804CE-4C4F-4ECF-B976-BBBC97DF9988}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
