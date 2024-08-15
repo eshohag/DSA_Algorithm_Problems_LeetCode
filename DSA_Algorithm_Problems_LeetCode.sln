@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_Integer_Problem", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum_Subarray_Sum", "Maximum_Subarray_Sum\Maximum_Subarray_Sum.csproj", "{6EB28C07-0D8E-4B52-BBAF-9D1C9366997D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Continuous_Subarray_Sum", "Continuous_Subarray_Sum\Continuous_Subarray_Sum.csproj", "{85B83430-38F2-4998-8334-482010B2E6EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{6EB28C07-0D8E-4B52-BBAF-9D1C9366997D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EB28C07-0D8E-4B52-BBAF-9D1C9366997D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EB28C07-0D8E-4B52-BBAF-9D1C9366997D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B83430-38F2-4998-8334-482010B2E6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B83430-38F2-4998-8334-482010B2E6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B83430-38F2-4998-8334-482010B2E6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B83430-38F2-4998-8334-482010B2E6EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
