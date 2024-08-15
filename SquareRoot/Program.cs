@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(MySqrt(9));
+            Console.WriteLine(MySqrt(10));
             Console.ReadKey();
         }
         /// <summary>
@@ -32,5 +32,7 @@
             }
             return left;
         }
+
+       
     }
 }
