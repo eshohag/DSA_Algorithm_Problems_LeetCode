@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Continuous_Subarray_Sum", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frequency_Most_Frequent_Element", "Frequency_Most_Frequent_Element\Frequency_Most_Frequent_Element.csproj", "{B3BC189A-C1A1-4AE6-B655-9ED6E2E685EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation_in_String", "Permutation_in_String\Permutation_in_String.csproj", "{62368B08-DBA2-4A12-8B55-2F41884EBF20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{B3BC189A-C1A1-4AE6-B655-9ED6E2E685EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3BC189A-C1A1-4AE6-B655-9ED6E2E685EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3BC189A-C1A1-4AE6-B655-9ED6E2E685EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62368B08-DBA2-4A12-8B55-2F41884EBF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62368B08-DBA2-4A12-8B55-2F41884EBF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62368B08-DBA2-4A12-8B55-2F41884EBF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62368B08-DBA2-4A12-8B55-2F41884EBF20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
