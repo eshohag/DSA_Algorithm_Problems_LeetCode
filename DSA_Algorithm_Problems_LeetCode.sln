@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egg_Drop_With_2_Eggs_and_N_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximal_Square_find_the_largest_square_sub-matrix_which_contains_only_1", "Maximal_Square_find_the_largest_square_sub-matrix_which_contains_only_1\Maximal_Square_find_the_largest_square_sub-matrix_which_contains_only_1.csproj", "{9F9A92C4-80E0-4984-AEF9-D15A52F6AAD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_using_Array_or_Circular_Queue", "Queue_using_Array_or_Circular_Queue\Queue_using_Array_or_Circular_Queue.csproj", "{FD66278F-FFE5-43F7-AE20-1FCD242B538B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word_Search", "Word_Search\Word_Search.csproj", "{D03014D3-3560-414B-BBA5-9CBA3835934B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +205,14 @@ Global
 		{9F9A92C4-80E0-4984-AEF9-D15A52F6AAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F9A92C4-80E0-4984-AEF9-D15A52F6AAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F9A92C4-80E0-4984-AEF9-D15A52F6AAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD66278F-FFE5-43F7-AE20-1FCD242B538B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD66278F-FFE5-43F7-AE20-1FCD242B538B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD66278F-FFE5-43F7-AE20-1FCD242B538B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD66278F-FFE5-43F7-AE20-1FCD242B538B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03014D3-3560-414B-BBA5-9CBA3835934B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03014D3-3560-414B-BBA5-9CBA3835934B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03014D3-3560-414B-BBA5-9CBA3835934B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03014D3-3560-414B-BBA5-9CBA3835934B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
