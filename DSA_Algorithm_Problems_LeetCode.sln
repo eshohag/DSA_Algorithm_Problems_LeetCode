@@ -41,25 +41,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareRoot_Doubble", "Squar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Duplicates_Array", "Duplicates_Array\Duplicates_Array.csproj", "{950804CE-4C4F-4ECF-B976-BBBC97DF9988}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count_Pairs_With_Given_Sum", "Count_Pairs_With_Given_Sum\Count_Pairs_With_Given_Sum.csproj", "{55DD36BB-DFBE-42EA-A35B-FC3E27B63F99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count_Pairs_With_Given_Sum", "Count_Pairs_With_Given_Sum\Count_Pairs_With_Given_Sum.csproj", "{55DD36BB-DFBE-42EA-A35B-FC3E27B63F99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_Integer_Problem", "Reverse_Integer_Problem\Reverse_Integer_Problem.csproj", "{9D828F64-9AC5-4EEC-8AEB-534AE03A722F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse_Integer_Problem", "Reverse_Integer_Problem\Reverse_Integer_Problem.csproj", "{9D828F64-9AC5-4EEC-8AEB-534AE03A722F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum_Subarray_Sum", "Maximum_Subarray_Sum\Maximum_Subarray_Sum.csproj", "{6EB28C07-0D8E-4B52-BBAF-9D1C9366997D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum_Subarray_Sum", "Maximum_Subarray_Sum\Maximum_Subarray_Sum.csproj", "{6EB28C07-0D8E-4B52-BBAF-9D1C9366997D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Continuous_Subarray_Sum", "Continuous_Subarray_Sum\Continuous_Subarray_Sum.csproj", "{85B83430-38F2-4998-8334-482010B2E6EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Continuous_Subarray_Sum", "Continuous_Subarray_Sum\Continuous_Subarray_Sum.csproj", "{85B83430-38F2-4998-8334-482010B2E6EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frequency_Most_Frequent_Element", "Frequency_Most_Frequent_Element\Frequency_Most_Frequent_Element.csproj", "{B3BC189A-C1A1-4AE6-B655-9ED6E2E685EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frequency_Most_Frequent_Element", "Frequency_Most_Frequent_Element\Frequency_Most_Frequent_Element.csproj", "{B3BC189A-C1A1-4AE6-B655-9ED6E2E685EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation_in_String", "Permutation_in_String\Permutation_in_String.csproj", "{62368B08-DBA2-4A12-8B55-2F41884EBF20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Permutation_in_String", "Permutation_in_String\Permutation_in_String.csproj", "{62368B08-DBA2-4A12-8B55-2F41884EBF20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_all_nodes_in_a_binary_tree", "Sum_of_all_nodes_in_a_binary_tree\Sum_of_all_nodes_in_a_binary_tree.csproj", "{07E314D5-58B6-4D14-B0DB-5A1E629B5F4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum_of_all_nodes_in_a_binary_tree", "Sum_of_all_nodes_in_a_binary_tree\Sum_of_all_nodes_in_a_binary_tree.csproj", "{07E314D5-58B6-4D14-B0DB-5A1E629B5F4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_nodes_at_maximum_depth_of_a_Binary_Tree", "Sum_of_nodes_at_maximum_depth_of_a_Binary_Tree\Sum_of_nodes_at_maximum_depth_of_a_Binary_Tree.csproj", "{27977E03-F1FE-499F-A44F-299845088138}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum_of_nodes_at_maximum_depth_of_a_Binary_Tree", "Sum_of_nodes_at_maximum_depth_of_a_Binary_Tree\Sum_of_nodes_at_maximum_depth_of_a_Binary_Tree.csproj", "{27977E03-F1FE-499F-A44F-299845088138}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count_Subarrays_having_Sum_K", "Count_Subarrays_having_Sum_K\Count_Subarrays_having_Sum_K.csproj", "{170DF8F4-4C41-4199-AC30-AB0BA62FCA60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count_Subarrays_having_Sum_K", "Count_Subarrays_having_Sum_K\Count_Subarrays_having_Sum_K.csproj", "{170DF8F4-4C41-4199-AC30-AB0BA62FCA60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Int_32bit_Overflow_Handel", "Int_32bit_Overflow_Handel\Int_32bit_Overflow_Handel.csproj", "{AB593D70-7F0E-43DC-B194-595DA54CD218}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Int_32bit_Overflow_Handel", "Int_32bit_Overflow_Handel\Int_32bit_Overflow_Handel.csproj", "{AB593D70-7F0E-43DC-B194-595DA54CD218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capacity_To_Ship_Packages_Within_D_Days", "Capacity_To_Ship_Packages_Within_D_Days\Capacity_To_Ship_Packages_Within_D_Days.csproj", "{B732B2F1-1604-4D95-800F-BE01BEBABFE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{AB593D70-7F0E-43DC-B194-595DA54CD218}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB593D70-7F0E-43DC-B194-595DA54CD218}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB593D70-7F0E-43DC-B194-595DA54CD218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B732B2F1-1604-4D95-800F-BE01BEBABFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B732B2F1-1604-4D95-800F-BE01BEBABFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B732B2F1-1604-4D95-800F-BE01BEBABFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B732B2F1-1604-4D95-800F-BE01BEBABFE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
