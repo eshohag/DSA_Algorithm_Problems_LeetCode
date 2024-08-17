@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue_using_Array_or_Circul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Word_Search", "Word_Search\Word_Search.csproj", "{D03014D3-3560-414B-BBA5-9CBA3835934B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromic_Substrings", "Palindromic_Substrings\Palindromic_Substrings.csproj", "{443BEF44-9968-4013-8C2F-51732FFBCB51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindromic_Substrings", "Palindromic_Substrings\Palindromic_Substrings.csproj", "{443BEF44-9968-4013-8C2F-51732FFBCB51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create_Linked_list_from_array", "Create_Linked_list_from_array\Create_Linked_list_from_array.csproj", "{F43FE6D4-5B47-4B35-BA2D-683BD2AB4F4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{443BEF44-9968-4013-8C2F-51732FFBCB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{443BEF44-9968-4013-8C2F-51732FFBCB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{443BEF44-9968-4013-8C2F-51732FFBCB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43FE6D4-5B47-4B35-BA2D-683BD2AB4F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43FE6D4-5B47-4B35-BA2D-683BD2AB4F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43FE6D4-5B47-4B35-BA2D-683BD2AB4F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43FE6D4-5B47-4B35-BA2D-683BD2AB4F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
